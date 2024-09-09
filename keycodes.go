@@ -246,7 +246,7 @@ const (
 	KeyWimax            = 246
 	KeyRfkill           = 247 /*KeyThatControlsAllRadios*/
 	KeyMicmute          = 248 /*Mute/UnmuteTheMicrophone*/
-	keyMax              = 248 // highest key currently defined in this keyboard api
+	keyMax              = 0x2ff // highest key currently defined in this keyboard api
 
 	ButtonGamepad = 0x130
 
